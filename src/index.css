@@ -45,6 +45,7 @@ h1 {
   background-color: #e5771f;
   padding: 2.8rem 0;
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
   gap: 0.8rem;
